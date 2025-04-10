@@ -7,11 +7,12 @@ This repo tracks hands-on projects as I prepare for the **Databricks Generative 
 
 ## 📚 Table of Contents
 
-| Week | Topic                         | Project Folder                  |
-|------|-------------------------------|----------------------------------|
+| Week | Topic                         | Project Folder                             |
+|------|-------------------------------|---------------------------------------------|
 | 1    | LLM Theory + Tokenization     | [`day1-llm-foundations`](./day1-llm-foundations) |
 | 1    | Build Terminal Chatbot (GPT)  | [`day2-terminal-chatbot`](./day2-terminal-chatbot) |
 | 1    | Prompt Engineering 101        | [`day3-prompt-engineering`](./day3-prompt-engineering) |
+| 1    | Custom AI Assistant Profiles  | [`day4-custom-ai-assistant`](./day4-custom-ai-assistant) |
 | 2    | LangChain & RAG               | _(coming soon)_ |
 | 3–4  | Fine-Tuning & Open Models     | _(coming soon)_ |
 
@@ -22,7 +23,7 @@ This repo tracks hands-on projects as I prepare for the **Databricks Generative 
 - [x] Day 1 – LLM Foundations
 - [x] Day 2 – Terminal Chatbot
 - [x] Day 3 – Prompt Engineering
-- [ ] Day 4 – Custom AI Assistant
+- [x] Day 4 – Custom AI Assistant
 - [ ] Day 5 – Web UI with Streamlit
 - [ ] Week 2 – Chat with your Data (LangChain + RAG)
 - [ ] Week 3+ – Fine-tuning & Open Source LLMs
